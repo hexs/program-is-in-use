@@ -1,2 +1,8 @@
 .venv/
 .idea/
+__pycache__/
+t1.py
+t2.py
+t3.py
+show all result.png
+log.txt
